@@ -1,0 +1,12 @@
+{
+    "name": "vgiselbrecht/global-object-radar-core",
+    "description": "Core Application for Global Object Radar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Valentin Giselbrecht",
+            "email": "vgiselbrecht@hotmail.com"
+        }
+    ],
+    "require": {}
+}
